@@ -1,10 +1,9 @@
 ## Welcome to GitHub Pages
-# ABC, 123
-## frrrrr
-### Bee movie
-1. hello
-2. my name is
-
+# Jooheon's First CS 193 Lab!
+### favorite things
+1. Bee
+2. Movie
+3. aaaaay
 
 
 
